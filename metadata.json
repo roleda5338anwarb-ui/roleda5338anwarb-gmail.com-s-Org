@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast! Puzzle Arcade",
+  "description": "Fit colorful block shapes, blast full lines, and rack up explosive combos in this addictive 8x8 puzzle arcade game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
